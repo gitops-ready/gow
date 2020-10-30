@@ -1,2 +1,2 @@
 # gow
-GitOps-Ready Workflow
+GitOps-Ready Workflow for Developers
